@@ -3,7 +3,7 @@ import {createRoot} from "react-dom/client";
 //const element = React.createElement('hi', null, 'Hello React World');
 const element = (
     <div>
-        <h1>My Todo List</h1>
+        <h1>My To do List</h1>
         <input placeholder="search" />
         <ul>
             <li>Install React</li>
