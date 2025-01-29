@@ -11,7 +11,7 @@ const App = () => {
     return (
         <div>
 
-            <AppHeader />
+            <AppHeader/>
             <SearchPanel />
             <TodoList/>
         </div>
