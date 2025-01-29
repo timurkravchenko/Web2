@@ -4,7 +4,7 @@ import {createRoot} from "react-dom/client";
 
 
 const TodoList = () => {
-    const items = ['Install React', 'Study Reac', 'Use React', 'Build React App'];
+    const items = ['Install React', 'Study React', 'Use React', 'Build React App'];
     return (
         <ul>
             <li>{items[0]}</li>
